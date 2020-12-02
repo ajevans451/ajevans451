@@ -1,4 +1,54 @@
 body {
   color: #F5E6E8;
   background-color: #493548;
+  padding: 5px;
+  margin: 0 auto;
+}
+.jumbotron {
+  font-size: 50px;
+  text-align: center;
+  color: #F5E6E8;
+  background-color: #493548;
+}
+.header-img {
+  width: 100%;
+}
+/* .row.about-me {
+text-align: center;
+} */
+.project-thumbnail {
+  max-width: 500px;
+}
+h3 {
+  font-size: 32px;
+}
+p {
+  font-size: 16px;
+}
+.link {
+  background-color: #F5E6E8;
+  color: #DA4167;
+  font-size: 18px;
+  display: block;
+  padding: 5px;
+  border-radius: 7px;
+  margin-top: 7px;
+  width: 85px;
+  text-align: center;
+  text-decoration: none;
+}
+.link:hover {
+  color: #F5E6E8;
+  background-color: #DA4167;
+  text-decoration: none;
+}
+.contact-section {
+  text-align: center;
+  padding-bottom: 20px;
+  margin-bottom: 80px;
+}
+.contact-link {
+  display: inline;
+  margin-right: 2.5px;
+  margin-left: 2.5px;
 }
