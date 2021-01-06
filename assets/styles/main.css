@@ -1,4 +1,4 @@
-body {
+/* body {
   color: #F5E6E8;
   background-color: #493548;
   padding: 5px;
@@ -13,9 +13,9 @@ body {
 .header-img {
   width: 100%;
 }
-/* .row.about-me {
+.row.about-me {
 text-align: center;
-} */
+}
 .project-thumbnail {
   max-width: 500px;
 }
@@ -51,4 +51,4 @@ p {
   display: inline;
   margin-right: 2.5px;
   margin-left: 2.5px;
-}
+} */
