@@ -1,6 +1,10 @@
 .home-nav {
   background: black;
 }
+#home-nav-link-1, #home-nav-link-2, #home-nav-link-3, #home-nav-link-4 {
+  font-size: 18px;
+}
+
 
 
 /* body {
